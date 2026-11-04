@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Xlop
+Label: Xlop
+Codename: stable
+Date: Wed, 04 Nov 2026 21:09:30 UTC
+Architectures: amd64 i386 arm64
+Components: main
+Description: Xlop Launcher repository
+MD5Sum:
+ e5c25df8db15eac499451d08014f00cd 737 main/binary-amd64/Packages
+ 64e96099d84327ca680dced7dc292047 520 main/binary-amd64/Packages.gz
+ da76b623b9e10d6d38964697f0b881ef 99 main/binary-amd64/Release
+ e5c25df8db15eac499451d08014f00cd 737 main/binary-i386/Packages
+ 64e96099d84327ca680dced7dc292047 520 main/binary-i386/Packages.gz
+ 6f57e084207aa8605bdf30ab9b65e961 98 main/binary-i386/Release
+ e5c25df8db15eac499451d08014f00cd 737 main/binary-arm64/Packages
+ 64e96099d84327ca680dced7dc292047 520 main/binary-arm64/Packages.gz
+ a542707c3cf433e09b5688d501ee4740 99 main/binary-arm64/Release
+SHA1:
+ eb5922e9da982f7c65e150fef162097ab3c89edd 737 main/binary-amd64/Packages
+ 25d217b4333640047e03744e8a6f928d2761d8a8 520 main/binary-amd64/Packages.gz
+ 5903138b86077ccb262150537f7d44c348e34467 99 main/binary-amd64/Release
+ eb5922e9da982f7c65e150fef162097ab3c89edd 737 main/binary-i386/Packages
+ 25d217b4333640047e03744e8a6f928d2761d8a8 520 main/binary-i386/Packages.gz
+ 5c3e54806f48d76834821bd74758d1032dcfe808 98 main/binary-i386/Release
+ eb5922e9da982f7c65e150fef162097ab3c89edd 737 main/binary-arm64/Packages
+ 25d217b4333640047e03744e8a6f928d2761d8a8 520 main/binary-arm64/Packages.gz
+ 0ef51f46b10323bbad33a9463fc9be342d993dc7 99 main/binary-arm64/Release
+SHA256:
+ c1cf57698c9a985322a6a3274f7e4166682816b0337cd8f47568d05c0fb5afbf 737 main/binary-amd64/Packages
+ a497455b546953692a8b0340e93816bdb5f0035a64fa9fb2a2324ebcea619c9b 520 main/binary-amd64/Packages.gz
+ 21e8d2eb2560f1405615f7f491ff5e87cc227c52062f049ab849a2844e4bef73 99 main/binary-amd64/Release
+ c1cf57698c9a985322a6a3274f7e4166682816b0337cd8f47568d05c0fb5afbf 737 main/binary-i386/Packages
+ a497455b546953692a8b0340e93816bdb5f0035a64fa9fb2a2324ebcea619c9b 520 main/binary-i386/Packages.gz
+ b10e76e173897741e36e252bdbc530c3799f9c5ecec6e9a352ecea062c809cd8 98 main/binary-i386/Release
+ c1cf57698c9a985322a6a3274f7e4166682816b0337cd8f47568d05c0fb5afbf 737 main/binary-arm64/Packages
+ a497455b546953692a8b0340e93816bdb5f0035a64fa9fb2a2324ebcea619c9b 520 main/binary-arm64/Packages.gz
+ 92968dc11a55c909d5abae2502c45659212125e956eb4478e717689d6f0d2ced 99 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQd7Ovfp/WIdoDwKD/AHHxJhX8sjQUCauufFgAKCRDAHHxJhX8s
+jYUlAP0alKjaHoQqGXjJMQRjdxxwq9GbIlz5U5wYUGbrPdA/yAEAmcQeV2kWMhu2
+PpGhQg3nhYob726JInaCW7nBzCrI+AY=
+=qYVA
+-----END PGP SIGNATURE-----

@@ -1,0 +1,19 @@
+Package: xlop-launcher
+Version: 1.2.4
+Architecture: all
+Depends: python3 (>= 3.5), python3-gi, gir1.2-gtk-3.0
+Recommends: default-jre
+Maintainer: Xlop <xlop@localhost>
+Priority: optional
+Section: games
+Filename: pool/main/x/xlop-launcher/xlop-launcher_1.2.4_all.deb
+Size: 31834
+SHA256: 4b8bc24288b450b789196078b886a0b4e57b14b1bf4447cfc1dff2d626509cec
+SHA1: 0a3ef0f5764130ee0ee152fb9b6e65f2d633d7fd
+MD5sum: bff18d46aabec9cf00c8cb4a400de300
+Description: Xlop Launcher - a Minecraft launcher
+ Supports offline, Microsoft and Ely.by accounts, mods, resource packs, shaders and modpacks (Modrinth, CurseForge),
+ custom skins
+ (image file or premium player name) and every Minecraft version
+ listed by Mojang, from 1.0 to the latest release.
+

@@ -1,0 +1,5 @@
+Component: main
+Origin: Xlop
+Label: Xlop
+Architecture: arm64
+Description: Xlop Launcher repository
